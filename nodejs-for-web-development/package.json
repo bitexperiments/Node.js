@@ -1,0 +1,10 @@
+{
+  "name": "HelloWorld",
+  "version": "0.0.1",
+  "description": "An example pckage to test Node.js and npm",
+  "author": "Maduranga Jayasihe",
+  "main": "index.js",
+  "dependencies": {
+       "express": "*"
+  }
+}
