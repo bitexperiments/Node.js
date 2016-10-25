@@ -1,5 +1,5 @@
 ## Node.js
-Source repository related to Node.js blog post of bitexperiments.com technical blog
+Source repository related to Node.js tutorials of bitexperiments.com technical blog
 
 | POST                                                    | Related source file folder                    |   Post link   |
 |:-------------------------------------------------------:|:---------------------------------------------:|:-------------:|
