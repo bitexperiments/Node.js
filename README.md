@@ -6,5 +6,5 @@ Source repository related to Node.js tutorials of bitexperiments.com technical b
 
 | POST                                                    | Related source file folder                    |   Post link   |
 |:-------------------------------------------------------:|:---------------------------------------------:|:-------------:|
-| tutorials/nodejs-for-web-development-1 | Node.js for web development (Part 1) | [Blog Post Ref ](http://www.bitexperiments.com/tutorials/nodejs-for-web-development-1 "Node.js for Web Development") |
+| Node.js for web development (Part 1) | Bide.js/nodejs-for-web-development-1 | [Blog Post Ref ](http://www.bitexperiments.com/tutorials/nodejs-for-web-development-1 "Node.js for Web Development") |
 
